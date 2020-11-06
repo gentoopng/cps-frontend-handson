@@ -1,0 +1,25 @@
+{
+  "name": "cps-frontend-handson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "htmlserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html -d public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gentoopng/cps-frontend-handson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gentoopng/cps-frontend-handson/issues"
+  },
+  "homepage": "https://github.com/gentoopng/cps-frontend-handson#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
